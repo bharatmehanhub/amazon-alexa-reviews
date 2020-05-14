@@ -1,1 +1,1 @@
-This repository is created to share my work of sentiment analysis on amazon alexa reviews by customers.
+This repository is created to share my work on sentiment analysis of amazon alexa reviews by customers.
