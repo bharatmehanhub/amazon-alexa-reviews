@@ -25,7 +25,7 @@ We have two questions to answer here as below:
 i) We will train our models for sentiment analysis and categorise the
 reviews into positive and negative reviews. This will be implemented
 using naive bayes and decision tree classifiers.  
-ii) We will generateword cloud to discover insights into words used in
+ii) We will generate WordCloud to discover insights into words used in
 consumer reviews to assist with machine learning models.
 
 Data Source: Amazon's website
